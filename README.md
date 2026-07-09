@@ -29,12 +29,17 @@ Focused on machine learning, probability, and data analysis.
 - Regularization (L1 / L2)
 - Bias–variance tradeoff
 - Model evaluation
+- Basic ML algorithms
+- CatBoost / XGBoost / LightGBM
 
 **Programming**
 - Python (NumPy, pandas, scikit-learn)
 - Jupyter Notebook
 - Git
 
+**Data Analysis**
+- Exploratory Data Analysis (EDA)
+- Data visualization (Matplotlib, Seaborn)
 ---
 
 ## 📂 Projects
